@@ -5,6 +5,8 @@ description: >-
 
 # theme: minima
 remote_theme: sighingnow/jekyll-gitbook
+
 plugins:
-#  - jekyll-feed
-  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-readme-index
+  - jemoji
