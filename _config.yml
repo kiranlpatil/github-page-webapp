@@ -4,9 +4,8 @@ description: >-
   An informative blog for learning SOLID Principles in simple wordings
 
 # theme: minima
-remote_theme: sighingnow/jekyll-gitbook
+remote_theme: pages-themes/cayman@v0.2.0
 
 plugins:
-  - jekyll-feed
-  - jekyll-readme-index
-  - jemoji
+#  - jekyll-feed
+  - jekyll-remote-theme
