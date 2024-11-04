@@ -9,8 +9,8 @@ layout: default
 * * *
 1. ## **[Design Pattern](./_posts/2024-11-04-design-pattern.md).**
 * * *
-1. ## **[Types of Design Pattern](https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design).**
+1. ## **[Types of Design Pattern](./_posts/2024-11-04-design-pattern-types.md).**
 * * *
-1. ## **[Details of each Design Patterns](https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design).**
+1. ## **[Details of each Design Patterns](./_posts/2024-11-04-design-pattern-types-details.md).**
 * * *
 
