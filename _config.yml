@@ -1,5 +1,10 @@
-theme: minima
 title: WebApp Using Github Pages
 author: kiranlpatil.cs@gmail.com
 description: >-
   An informative blog for learning SOLID Principles in simple wordings
+
+# theme: minima
+remote_theme: pages-themes/architect@v0.2.0
+plugins:
+#  - jekyll-feed
+  - jekyll-remote-theme
