@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Introduction to the blog"
+title:  "Design Pattern"
 date:   2024-11-04
 ---
 
